@@ -1,0 +1,25 @@
+{
+  "name": "group-7-patient-data-rest-api",
+  "version": "3.0.0",
+  "description": "In this Project we are going to design REST API Service for a Patient Clinical Data management application for the health care providers (i.e. nurses and doctors) in hospitals.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.17.0",
+    "npm": "8.19.2"
+  },
+  "authors": [
+    "Khawaja Talha Haseeb",
+    "Deepak Sardana",
+    "Muhammad Bilal Dilbar Hussain",
+    "Murtaza Haider Naqvi",
+    "Dhanush Sriram"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.10.7",
+    "restify": "=8.5.1"
+  }
+} 
